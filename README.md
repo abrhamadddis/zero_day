@@ -1,0 +1,1 @@
+*italic text here* | _bold text there
